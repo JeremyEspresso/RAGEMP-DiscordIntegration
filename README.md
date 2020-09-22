@@ -9,7 +9,7 @@ Features:
 4. Update bot status on setup and/or during runtime
 
 # Review(s)
-![itsok](https://i.imgur.com/1hz3CU5.png)
+![itsok](https://i.imgur.com/1hz3CU5.png) ![jamesdoesntgiveafuck](https://i.imgur.com/fEQbxIN.png)
 
 # How to set up
 1. Create a new application on [Discord Developers](https://discord.com/developers/applications)
